@@ -4,12 +4,14 @@
 # A simple XOR crypter.
 Right now it's poorly made, but I'll be adding more features and fixing everything soon. (the payload will be inside the exe and more)
 
-A test using crypted Pulsar RAT.
-![obraz](https://github.com/user-attachments/assets/04f3d839-1a70-4d4c-afd2-1164d50eaff4)
-![obraz](https://github.com/user-attachments/assets/6a7ef412-7f85-4042-9e47-5eebdab9e6b7)
+when i upload the file the crypter will probably get detected but its not that hard to refud it yourself.
 
 # Info
 As of right now (26 May 2025) the crypted file is undetectable on most AV's runtime and scantime.
 
 # Screenshots
 ![obraz](https://github.com/user-attachments/assets/c48db8ac-d6ad-455c-8714-17ac13bb2460)
+
+A test using crypted Pulsar RAT.
+![obraz](https://github.com/user-attachments/assets/04f3d839-1a70-4d4c-afd2-1164d50eaff4)
+![obraz](https://github.com/user-attachments/assets/6a7ef412-7f85-4042-9e47-5eebdab9e6b7)
