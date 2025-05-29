@@ -1,5 +1,5 @@
 # XOR .net crypter
-⚠️ This project is for educational and research purposes only. Do not use it for malicious purposes!      
+⚠️ <b> This project is for educational and research purposes only. Do not use it for malicious purposes! </b>      
 Right now it's poorly made, but I'll be adding more features and fixing everything soon. (the payload will be inside the exe and more)     
 when i upload the file the crypter will probably get detected but its not that hard to refud it yourself.     
 The crypter only supports .net files.
